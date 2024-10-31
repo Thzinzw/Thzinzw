@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou o @Thzinzw
 - 👀 eu estou interessado em aprender a programar
 - 🌱 atualmente estou aprendendo a programar 
-- 💞️ ajudar a programar 
+- 🐱‍💻 ajudar a programar 
 - 📫 Pode mandar mensagem no meu discord: _thiagoozx
 - ❗ ainda vou arrumar essa minha pequena apresentação
  
